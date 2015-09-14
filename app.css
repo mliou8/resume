@@ -1,5 +1,5 @@
 body {
-	background-color: #99CCFF;
+	background-color: #FFFAF0;
 }
 
 header {
@@ -23,6 +23,18 @@ ul>li {
 section {
 	width: 50%;
 	margin: 0 auto;
+}
+
+.grey-background {
+	background-color: #696969;
+	color: white;
+
+}
+
+.sidebarimg {
+	position: fixed;
+	top: 20px;
+	left: 40px;
 }
 
 
